@@ -1,0 +1,12 @@
+@media print { #imprimer , #exporter , #supprimer {
+       display : none ;
+	
+} 
+}
+.couleur { color :   blue; margin-left: 200px ;  }
+.none{ display : none ; }
+a { text-decoration: none ;  margin-left: 250px ; }
+
+.marge{margin-top: 70px ; margin-left: 310px ;  }
+.red { color : red; margin-left : 400px ; font-size: 25px ; margin-top: 170px ;  }
+.td {width :20px ;} 
